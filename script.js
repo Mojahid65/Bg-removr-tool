@@ -14,7 +14,7 @@ document.getElementById('imageInput').addEventListener('change', function () {
 
     fetch('https://api.remove.bg/v1.0/removebg', {
         method: 'POST',
-        headers: { 'X-Api-Key': 'YOUR_API_KEY' }, // Replace with your API Key
+        headers: { 'X-Api-Key': 'kt1KYxZ2XEtdjppkiGtZ9qMg' }, // Replace with your API Key
         body: formData
     })
     .then(response => {
