@@ -37,7 +37,7 @@ nav {
 .upload-btn {
     padding: 12px 20px;
     border: none;
-    background: #85c1e9;
+    background: #6c3483;
     color: white;
     cursor: pointer;
     font-weight: bold;
@@ -47,7 +47,7 @@ nav {
 }
 
 .upload-btn:hover {
-    background-color: #45a049;
+    background-color: #d2b4de;
 }
 
 header {
